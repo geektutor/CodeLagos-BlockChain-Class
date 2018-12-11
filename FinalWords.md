@@ -8,6 +8,8 @@ As with anything and any knowledge, this is not the end, this is just the beginn
 
 For your project, I have created some smart contracts in the contract folder of this repository. You can go in there and pick one to work with. You should also check the migration folder for the equivalent migration folder you need.
 
+Once done, you push your project to github and submit with this link - https://docs.google.com/forms/d/e/1FAIpQLSdqVxZ9QIz_u88mhCGZ0NU3JwG4OJTVOkVc0QuAfCCw3bjuzQ/viewform
+
 
 # On Git and Github
 
