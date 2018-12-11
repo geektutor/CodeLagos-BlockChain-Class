@@ -75,6 +75,4 @@ https://ethereum.stackexchange.com/questions/31902/how-to-verify-token-after-eth
 
 Creating your own Cryptocurrency is not a complex activity. It is simple and fun. Why not try yourself ?
 
-If you want some GeekCoin and become rich then let me know your account public key.
-
-
+If you want some Kahawanu and become rich then let me know your account public key.
