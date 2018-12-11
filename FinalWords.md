@@ -38,14 +38,4 @@ Submit via this form I will add to this later.
 
 # Final Note
 
-I will regularly be updating this document so stay tuned guys. You can reach me with geek@geektutor.co. Cheers
-
-
-
-
-
-
-
-
-
- to add 
+I will regularly be updating this document so stay tuned guys. You can reach me with [geek@geektutor.co](mailto:geek@geektutor.co). Cheers.
