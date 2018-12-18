@@ -6,6 +6,10 @@ As with anything and any knowledge, this is not the end, this is just the beginn
 
 I have arranged all the class resources and put them into this repository
 
+# On Community
+
+Here is the [slack invite link] (https://codelagosdevelopers.slack.com/join/shared_invite/enQtNDg4NzM4MDM3MjY3LWY4ZmU3OWY5NDc2NDBjNWUzNzgyNDBkMzlkMzZkM2ZhZDkwMDczOWY3OTI0OGUyOWQyYzI4ZTMzMzkzYjdkODg)
+
 # On Project
 
 For your project, I have created some smart contracts in the **Project** folder of this repository. You can go in there and pick one to work with. You should also check the folder equivalent migration file you need.
