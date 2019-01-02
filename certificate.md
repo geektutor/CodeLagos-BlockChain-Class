@@ -10,10 +10,6 @@ Make your payment of **#2,500** to:
 _Zenith Bank Plc_
 Account Number: **1015157873**
 
-Fill the form https://goo.gl/forms/avSBAHkklStRN5EX2
-
-Indicate your full name, email, the name of the course taken, the Centre name and the Batch number and Payment Date.
-
 Ensure you make the payment yourself.
 
 Once payment is verified, your certificate will be issued to you.
