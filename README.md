@@ -44,7 +44,7 @@ Submit via this form I will add to this later.
 
 # Question
 
-All questions should be sent as an issue to this repository. I would do my best to follwo through
+All questions should be sent as an issue to this repository. I would do my best to follow through
 
 # Final Note
 
