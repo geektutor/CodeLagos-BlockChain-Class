@@ -4,7 +4,7 @@ Thank you so much for going through the course with me at CodeLagos.
 
 As with anything and any knowledge, this is not the end, this is just the beginning and it is now up to you to push forward and improve yourself.
 
-I have arranged all the class resources and put them into this repository
+I have arranged all the class resources and put them into this repository.
 
 # On Community
 
@@ -23,7 +23,7 @@ As we want to begin to teach you the best practices from here, I have decided th
 
 I have attached a simple slide show in the repo that explains what Git and Github is and how to get started.
 
-Create an account on github.com
+Create an account on github.com.
 
 Download and configure the git bash, https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -36,15 +36,15 @@ Move your files to inside the folder that was cloned
 
 Do - git add . from the folder in git bash.
 
-Do - git commit -m "Commit desription"
+Do - git commit -m "Commit desription".
 
-Do - git push origin master
+Do - git push origin master.
 
 Submit via this form I will add to this later.
 
 # Question
 
-All questions should be sent as an issue to this repository. I would do my best to follwo through
+All questions should be sent as an issue to this repository. I would do my best to follwo through.
 
 # Final Note
 
